@@ -13,4 +13,4 @@ In order to this you need to move the upper mentioned plugin into your: 'wordpre
 2)  Pexels http://www.pexels.com
 
 # The theme is constructed as per the requirement by the rtCamp Company under Wordpress engineer Assignment: 
-https://careers.rtcamp.com/wordpress-engineer/assignment/
+https://learn.rtcamp.com/campus/quiz/
