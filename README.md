@@ -8,6 +8,7 @@ OR
 In order to do this you may want to install the following plugin in order to have Recent posts  on your website:
 In order to this you need to move the upper mentioned plugin into your: 'wordpress/wp-content/plugins/'
 
+# Source code map download and run using this file rtCamp-Wordpress-Assignment.zip
 # The images I used are either copyrighted by the following and are obtained by open source license or Creative Commons Zero License
 1)  rtCamp Solutions Pvt. Ltd.
 2)  Pexels http://www.pexels.com
